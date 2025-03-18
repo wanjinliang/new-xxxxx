@@ -21,8 +21,8 @@
 package conversation
 
 import (
-	sdkws "github.com/SupersStone/new-protocol/sdkws"
-	wrapperspb "github.com/SupersStone/new-protocol/wrapperspb"
+	sdkws "github.com/wanjinliang/new-xxxxx/sdkws"
+	wrapperspb "github.com/wanjinliang/new-xxxxx/wrapperspb"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
